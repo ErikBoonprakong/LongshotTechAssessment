@@ -9,7 +9,7 @@ let numberSix = document.getElementById("number-box-5");
 let numberSeven = document.getElementById("number-box-6");
 let numberEight = document.getElementById("number-box-7");
 
-let myName = "Erik Boonprakong-Kitching";
+let myName = "Erik Boonprakong-Kitching (Second Attempt)";
 let numberString =
     numberOne.innerHTML.trim() +
     numberTwo.innerHTML.trim() +
